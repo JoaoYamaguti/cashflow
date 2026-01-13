@@ -22,3 +22,21 @@ oferecendo uma análise visual e eficaz das despesas.
 - **RESTful API com Documentacao Swagger**: Interface documentada que facilita a integracao e o
 teste por parte dos desenvolvedores.
 
+## Getting Started
+
+Para obter uma cópia local funcionando, siga estes passos simples.
+
+### Requisitos
+
+* Visual Studio versão 2022+ ou Visual Studio Code
+* Windows 10+ ou Linux/MacOS com [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) instalado
+* MySql Server
+
+### Instalação
+
+1. Clone o repositorio: 
+    ```sh
+    git clone https://github.com/JoaoYamaguti/cashflow.git
+    ```
+2. Preencha as informações no arquivo `appsettings.Development.json`;
+3. Execute a API e aproveite o seu teste; :)
