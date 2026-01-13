@@ -11,6 +11,8 @@ testes de unidade para tornar as verificações mais legíveis, ajudando a escre
 nas classes de requisições, mantendo o codigo limpo e fácil de manter. Por fim, o **EntityFramework** atua como um ORM (Object-Relational Mapper) que simplifica as interações com o banco de dados, permitindo o uso de
 objetos .NET para manipular dados diretamente, sem a necessidade de lidar com consultas SQL.
 
+![hero-image]
+
 ### Features
 
 - **Domain-Driven Design (DDD)**: Estrutura modular que facilita o entendimento e a manutenção do
@@ -29,7 +31,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 ### Requisitos
 
 * Visual Studio versão 2022+ ou Visual Studio Code
-* Windows 10+ ou Linux/MacOS com [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) instalado
+* Windows 10+ ou Linux/MacOS com [.NET SDK][dot-net-sdk] instalado
 * MySql Server
 
 ### Instalação
@@ -40,3 +42,11 @@ Para obter uma cópia local funcionando, siga estes passos simples.
     ```
 2. Preencha as informações no arquivo `appsettings.Development.json`;
 3. Execute a API e aproveite o seu teste; :)
+
+
+
+<!-- Links -->
+[dot-net-sdk]: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+
+<!-- images -->
+[hero-image]: images/heroimage.png
