@@ -11,7 +11,8 @@ testes de unidade para tornar as verificações mais legíveis, ajudando a escre
 nas classes de requisições, mantendo o codigo limpo e fácil de manter. Por fim, o **EntityFramework** atua como um ORM (Object-Relational Mapper) que simplifica as interações com o banco de dados, permitindo o uso de
 objetos .NET para manipular dados diretamente, sem a necessidade de lidar com consultas SQL.
 
-![hero-image]
+
+
 
 ### Features
 
@@ -23,6 +24,18 @@ qualidade.
 oferecendo uma análise visual e eficaz das despesas.
 - **RESTful API com Documentacao Swagger**: Interface documentada que facilita a integracao e o
 teste por parte dos desenvolvedores.
+
+### Construido com...
+![badge-joao]
+![badge-dot-net]
+![badge-windows]
+![badge-visual-studio]
+![badge-mysql]
+![badge-swagger]
+
+Gerar badges personalizadas em [shields.io](https://shields.io/badges)
+
+Pegar padrões de badges em [badges.pages.dev](https://badges.pages.dev)
 
 ## Getting Started
 
@@ -50,3 +63,12 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 <!-- images -->
 [hero-image]: images/heroimage.png
+
+<!-- Badges -->
+[badge-joao]: https://img.shields.io/badge/Jo%C3%A3o-black
+[badge-dot-net]: https://img.shields.io/badge/.NET-512BD4?logo-dotnet&logoColor-fff&style-for-the-badge
+[badge-windows]: https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style-for-the-badge
+[badge-visual-studio]: https://img.shields.io/badge/Visual%20Studio-5C2D91?logo-visualstudio&logoColor-fff&style-for-the-badge
+[badge-mysql]: https://img.shields.io/badge/MySQL-4479A1?logo=mysq1&logoColor=fff&style-for-the-badge
+[badge-swagger]: https://img.shields.io/badge/Swagger-85EA2D?logo-swagger&logoColor-000&style-for-the-badge
+
